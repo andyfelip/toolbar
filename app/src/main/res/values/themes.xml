@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ToolUrbanismoTactivo" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+
+    </style>
+
+    <style name="Theme.ToolUrbanismoTactivo" parent="Base.Theme.ToolUrbanismoTactivo" />
+</resources>
